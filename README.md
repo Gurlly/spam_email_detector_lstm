@@ -24,16 +24,6 @@ This project builds a robust spam detection model tailored for job-related email
     - `pip install -r requirements.txt`
 4. **Run the notebook**
 
-## 📂 Project Structure
-job-spam-ham-detection/
-│
-├── data/                  # Raw and preprocessed datasets
-├── notebooks/             # Jupyter notebooks for EDA, training, and evaluation
-├── models/                # Saved model weights and architecture
-├── utils/                 # Custom preprocessing and evaluation scripts
-├── requirements.txt       # Environment dependencies
-└── README.md              # Project documentation
-
 ## 📌 Notes
 - Designed for extensibility: swap in other classifiers or datasets with minimal changes
 - Evaluation metrics are logged and visualized for interpretability
